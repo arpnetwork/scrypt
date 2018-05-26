@@ -1,0 +1,10 @@
+[package]
+name = "scrypt"
+version = "0.1.0"
+authors = ["rusiby <rusiby@163.com>"]
+
+[dependencies]
+hex = "0.3.1"
+rust-crypto = "0.2.36"
+num_cpus = "1.0"
+threadpool = "1.0"
